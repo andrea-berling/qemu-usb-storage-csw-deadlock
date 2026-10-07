@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+.ccls-cache/
+*.bin
+*.img
+compile_commands.json
